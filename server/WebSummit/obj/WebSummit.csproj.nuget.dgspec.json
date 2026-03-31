@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Starca\\source\\repos\\SummitApp\\WebSummit\\WebSummit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Starca\\source\\repos\\SummitApp\\WebSummit\\WebSummit.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Starca\\source\\repos\\SummitApp\\WebSummit\\WebSummit.csproj",
+        "projectPath": "C:\\Users\\Starca\\source\\repos\\SummitApp\\WebSummit\\WebSummit.csproj",
+        "packagesPath": "C:\\Users\\Starca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Starca\\source\\repos\\SummitApp\\WebSummit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Starca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      }
+    }
+  }
+}

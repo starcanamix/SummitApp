@@ -1,0 +1,7 @@
+C:\Users\Starca\source\repos\SummitApp\WebSummit\obj\Debug\net8.0\WebSummit.csproj.AssemblyReference.cache
+C:\Users\Starca\source\repos\SummitApp\WebSummit\obj\Debug\net8.0\WebSummit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Starca\source\repos\SummitApp\WebSummit\obj\Debug\net8.0\WebSummit.AssemblyInfoInputs.cache
+C:\Users\Starca\source\repos\SummitApp\WebSummit\obj\Debug\net8.0\WebSummit.AssemblyInfo.cs
+C:\Users\Starca\source\repos\SummitApp\WebSummit\obj\Debug\net8.0\WebSummit.csproj.CoreCompileInputs.cache
+C:\Users\Starca\source\repos\SummitApp\WebSummit\obj\Debug\net8.0\WebSummit.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Starca\source\repos\SummitApp\WebSummit\obj\Debug\net8.0\WebSummit.MvcApplicationPartsAssemblyInfo.cache

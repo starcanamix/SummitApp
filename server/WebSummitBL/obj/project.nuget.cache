@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2K8YH7D1JXE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Starca\\Desktop\\SummitApp\\server\\WebSummitBL\\SummitBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Starca\\.nuget\\packages\\sonaranalyzer.csharp\\10.22.0.136894\\sonaranalyzer.csharp.10.22.0.136894.nupkg.sha512"
+  ],
+  "logs": []
+}

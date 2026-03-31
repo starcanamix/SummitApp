@@ -1,0 +1,6 @@
+@WebSummit_HostAddress = http://localhost:5288
+
+GET {{WebSummit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
